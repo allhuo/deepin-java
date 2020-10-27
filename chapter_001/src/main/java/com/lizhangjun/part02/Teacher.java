@@ -1,6 +1,4 @@
-package com.yacoso.part02;
-
-import com.yacoso.part02.Person;
+package com.lizhangjun.part02;
 
 public class Teacher extends Person {
 

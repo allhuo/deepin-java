@@ -1,4 +1,4 @@
-package com.yacoso.part02;
+package com.lizhangjun.part02;
 
 public class Person {
 

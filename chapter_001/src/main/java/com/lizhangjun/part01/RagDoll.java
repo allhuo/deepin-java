@@ -1,4 +1,4 @@
-package com.yacoso.part01;
+package com.lizhangjun.part01;
 
 /**
  * 布偶猫
