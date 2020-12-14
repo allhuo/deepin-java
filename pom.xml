@@ -10,6 +10,7 @@
     <version>1.0</version>
     <modules>
         <module>chapter_001</module>
+        <module>01_builder</module>
     </modules>
 
     <properties>
