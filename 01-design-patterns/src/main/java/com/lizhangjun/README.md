@@ -14,7 +14,7 @@
 ##flyweight（）
 
 #行为模式
-## template
+## template（模板模式）
 ## momento
 ## observer
 ## chain of responsibility
