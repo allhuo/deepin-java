@@ -16,8 +16,11 @@ public class Main {
         InputStream inputStream = Resources.getResourceAsStream(resource);
         SqlSessionFactory sqlSessionFactory = new SqlSessionFactoryBuilder().build(inputStream);
         SqlSession sqlSession = sqlSessionFactory.openSession();
-        Student o = (Student) sqlSession.selectOne("selectById", 1);
 
+        //Student o = (Student) sqlSession.selectOne("selectById", 1);
+        StudentMapper mapper = sqlSession.getMapper(StudentMapper.class);
+        Student o = mapper.selectBlog(1);
         System.out.println(o.toString());
+
     }
 }
