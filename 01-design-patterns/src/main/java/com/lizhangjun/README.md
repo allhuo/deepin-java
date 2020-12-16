@@ -10,7 +10,7 @@
 ##Adapter（适配器模式---）
 ##Composite（组合模式---）
 ##decorator（装饰模式）
-##bridge（桥接模式）
+##bridge（桥接模式---）
 ##flyweight（）
 
 #行为模式
