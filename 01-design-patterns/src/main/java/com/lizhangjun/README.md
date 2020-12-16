@@ -15,7 +15,7 @@
 
 #行为模式
 ## template（模板模式）
-## memento（备忘录模式）
+## memento（备忘录模式---）
 ## observer（观察者模式）
 ## chain of responsibility（责任链模式）
 ## command（命令模式）
