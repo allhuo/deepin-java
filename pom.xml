@@ -11,6 +11,7 @@
     <modules>
         <module>chapter_001</module>
         <module>01_builder</module>
+        <module>01-design-patterns</module>
     </modules>
 
     <properties>
