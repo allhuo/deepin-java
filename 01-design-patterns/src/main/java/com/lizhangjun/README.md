@@ -7,7 +7,7 @@
 #结构模式
 ##Facade（外观模式）
 ##Proxy（代理模式）
-##Adapter（适配器）
+##Adapter（适配器---）
 ##Composite（）
 ##decorator（）
 ##bridge（）
