@@ -15,13 +15,13 @@
 
 #行为模式
 ## template（模板模式）
-## momento
-## observer
-## chain of responsibility
-## command
-## state
-## strategy
-## mediator
-## interpreter
-## visitor
-## iterator
+## memento（备忘录模式）
+## observer（观察者模式）
+## chain of responsibility（责任链模式）
+## command（命令模式）
+## state（状态模式）
+## strategy（策略模式）
+## mediator（中介模式）
+## interpreter（解释器模式）
+## visitor（访问者模式）
+## iterator（迭代器模式）
