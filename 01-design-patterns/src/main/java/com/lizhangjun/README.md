@@ -8,7 +8,7 @@
 ##Facade（外观模式）
 ##Proxy（代理模式）
 ##Adapter（适配器---）
-##Composite（）
+##Composite（---）
 ##decorator（）
 ##bridge（）
 ##flyweight（）
